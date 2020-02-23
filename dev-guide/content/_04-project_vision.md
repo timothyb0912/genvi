@@ -1,6 +1,6 @@
 Vision
 ======
-AKA: At the highest level, how to solve the problem, or put differently, what will be done in the project?
+AKA: At the highest level, how will this project solve its motivating problems, or put differently, what will be done in the project?
 
 This project will provide a single, unambiguous, generically useful, and trivially extended / customizable API for conducting variational inference.
 
