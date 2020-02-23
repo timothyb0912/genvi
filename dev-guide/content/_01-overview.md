@@ -3,7 +3,7 @@ Who?
 A collaborative, online, open-source effort. I.e., as many of us who choose to be involved.
 
 What?
-====
+=====
 A python package for straightforward and easy variational inference (VI) with arbitrary combinations of models and variational approximating families.
 
       Pytorch           —>    Pyro
@@ -13,15 +13,15 @@ A python package for straightforward and easy variational inference (VI) with ar
 
 
 Where?
-=====
+======
 Via the internet
 
 When?
-====
+=====
 In January (planning) and February (execution)?
 
 Why?
-===
+====
 - To help enable bayesian estimation of models only dreamed of previously. E.g.
     - Discrete choice models with non-parametric error distributions (e.g. neural network generator for the error distribution)
     - Fancy decision tree based models (e.g. heterogeneity across individuals in whether a node is a leaf-node)
